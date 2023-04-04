@@ -6,8 +6,8 @@
 * Author: Fekete Gergely
 * Copyright: 2023, Fekete Gergely
 * Group: Szoft 1/N
-* Date: 2021-09-03
-* Github: https://github.com/janos/
+* Date: 2023-04-04
+* Github: https://github.com/feketegergely062/F_G-dolgozat
 * Licenc: GNU GPL
 *
 * This program is free software; you can redistribute it and/or

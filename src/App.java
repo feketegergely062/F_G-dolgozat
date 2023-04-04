@@ -14,11 +14,11 @@ public class App {
         System.out.println("Feladat: 0366");
         System.out.print("Keszitette: Fekete Gergely, I/1/N 2023-04-04\n");
         Scanner testatlo = new Scanner(System.in);
-        System.out.println(" Add meg a kocka lapátlójának hosszát: ");
+        System.out.println(" Addja meg a kocka lapátlójának hosszát: ");
         double d = testatlo.nextDouble();
-        System.out.println(" Add meg a kocka oldalának hosszát: ");
+        System.out.println(" Addja meg a kocka oldalának hosszát: ");
         double a = testatlo.nextDouble();
-        double terfogat = 
+        double terfogat = d*3/a;
 
         System.out.println(terfogat);
     }

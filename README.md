@@ -2,10 +2,10 @@
 
 
 /*
-* File: ButtonPanel.java
+* File: Readme.md
 * Author: Fekete Gergely
 * Copyright: 2023, Fekete Gergely
-* Group: Szoft 1/N
+* Group: Szoft I/1/N
 * Date: 2023-04-04
 * Github: https://github.com/feketegergely062/F_G-dolgozat
 * Licenc: GNU GPL
